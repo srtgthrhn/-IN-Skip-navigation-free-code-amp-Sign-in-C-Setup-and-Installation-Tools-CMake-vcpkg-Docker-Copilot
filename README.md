@@ -1,6 +1,6 @@
 # C++23 Fundamentals with Projects & Algorithms
 
-> **Stop learning C++ the wrong way.** Master it like professionals do - with real projects, modern tools, and industry practices.
+> **Stop learning C++ the wrong way.** Master it like professionals do - with real projec           ts, modern tools, and industry practices.
 
 This repository contains the complete source code and projects for the comprehensive C++23 Fundamentals course available on [Udemy](https://www.udemy.com/course/cpp23-fundamentals-projects-algorithms/?couponCode=ENDMARCH2025).
 
